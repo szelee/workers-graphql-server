@@ -8,6 +8,6 @@ webpack_config = "webpack.config.js"
 
 # Enable a kv-namespace to use the KV caching feature
 #
-# kv-namespaces = [
-#   { binding = "WORKERS_GRAPHQL_CACHE", id = "" }
-# ]
+kv-namespaces = [
+  { binding = "WORKERS_GRAPHQL_CACHE", id = "c2cbb17373954462a259f5e4207186e6" }
+]
